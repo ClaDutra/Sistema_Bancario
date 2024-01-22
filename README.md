@@ -1,4 +1,4 @@
-# sistemabancarioDIO
+# Sistema Bancario
 
 Este projeto implementa um sistema bancário simples em Python, oferecendo funcionalidades básicas como depósito, saque, consulta de extrato e sair do sistema. O código é estruturado em um loop principal que exibe um menu de opções para o usuário.
 
